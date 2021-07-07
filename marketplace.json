@@ -17,7 +17,7 @@
         }
     ],
     "language": ["Go"],
-    "redis_commands": [],
+    "redis_commands": ["JSON.MGET"],
     "redis_features": ["Caching", "Pub/Sub"],
     "redis_modules": ["RedisJSON"],
     "youtube_url": "https://www.youtube.com/watch?v=zxp4gJshjg8",
