@@ -20,6 +20,7 @@
     "redis_commands": ["JSON.MGET"],
     "redis_features": ["Caching", "Pub/Sub"],
     "redis_modules": ["RedisJSON"],
+    "app_image_urls": [],
     "youtube_url": "https://www.youtube.com/watch?v=zxp4gJshjg8",
     "special_tags": ["Hackathon"],
     "verticals": ["Technology"],
