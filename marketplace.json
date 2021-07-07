@@ -20,7 +20,7 @@
     "redis_commands": [],
     "redis_features": ["Caching", "Pub/Sub"],
     "redis_modules": ["RedisJSON"],
-    "youtube_url": "https://www.youtube.com/watch?v=zxp4gJshjg8"
+    "youtube_url": "https://www.youtube.com/watch?v=zxp4gJshjg8",
     "special_tags": ["Hackathon"],
     "verticals": ["Technology"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/reqlite/main/README.md"
