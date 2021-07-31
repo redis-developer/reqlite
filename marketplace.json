@@ -4,6 +4,7 @@
     "rank": "230",
     "type": "Full App",
     "contributed_by": "Community",
+    "preview_image_url": "https://raw.githubusercontent.com/redis-developer/reqlite/master/images/app_preview_image.png",
     "repo_url": "https://github.com/redis-developer/reqlite",
     "download_url": "https://github.com/redis-developer/reqlite/archive/main.zip",
     "hosted_url": "",
