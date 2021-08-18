@@ -24,6 +24,6 @@
     "app_image_urls": [],
     "youtube_url": "https://www.youtube.com/watch?v=ipmP_auUF0w",
     "special_tags": ["Hackathon"],
-    "verticals": ["Technology"],
+    "verticals": ["Others"],
     "markdown": "https://raw.githubusercontent.com/redis-developer/reqlite/main/README.md"
 }
