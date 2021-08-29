@@ -1,7 +1,7 @@
 {
     "app_name": "Reqlite",
     "description": "Query data in Redis with SQL. Queries are executed client-side with SQLite (not on the redis server) using RedisJSON.",
-    "rank": "230",
+    "rank": "120",
     "type": "Full App",
     "contributed_by": "Community",
     "preview_image_url": "https://raw.githubusercontent.com/redis-developer/reqlite/master/images/app_preview_image.png",
