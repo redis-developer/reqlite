@@ -1,6 +1,6 @@
 {
     "app_name": "Reqlite",
-    "description": "Query data in Redis with SQL. Queries are executed client-side with SQLite (not on the redis server) using RedisJSON.",
+    "description": "Query data in Redis with SQL. Queries are executed client-side with SQLite (not on the redis server) using Redis JSON.",
     "rank": "120",
     "type": "Full App",
     "contributed_by": "Community",
@@ -11,16 +11,16 @@
     "quick_deploy": "false",
     "deploy_buttons": [
         {
-            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/reqlite.git" 
+            "heroku": "https://heroku.com/deploy?template=https://github.com/redis-developer/reqlite.git"
         },
         {
-            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/reqlite.git" 
+            "Google": "https://deploy.cloud.run/?git_repo=https://github.com/redis-developer/reqlite.git"
         }
     ],
     "language": ["Go"],
     "redis_commands": ["JSON.MGET"],
-    "redis_features": ["Caching", "Pub/Sub"],
-    "redis_modules": ["RedisJSON"],
+    "redis_use_cases": ["Caching", "Pub/Sub"],
+    "redis_features": ["JSON"],
     "app_image_urls": [],
     "youtube_url": "https://www.youtube.com/watch?v=ipmP_auUF0w",
     "special_tags": ["Hackathon"],
