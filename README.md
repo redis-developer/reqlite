@@ -125,7 +125,7 @@ SELECT DBSIZE()
 SELECT LLEN('some-list')
 ```
 
-### RedisJSON ([link](https://oss.redislabs.com/redisjson/))
+### Redis JSON ([link](https://oss.redislabs.com/redisjson/))
 
 #### JSON_GET
 
